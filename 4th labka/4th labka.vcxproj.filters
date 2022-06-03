@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\tests">
+      <UniqueIdentifier>{279b70fc-a946-4d32-8e24-4e501cd4fedb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\типы данных">
+      <UniqueIdentifier>{9406568d-fbae-446e-a912-c30199c7c09b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\из 2-3 лабы">
+      <UniqueIdentifier>{c32838f3-5084-459d-8137-6562109ecd04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="4th labka.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="functions.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListTests.h">
+      <Filter>Файлы заголовков\tests</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListSequenceTests.h">
+      <Filter>Файлы заголовков\tests</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicArrayTests.h">
+      <Filter>Файлы заголовков\tests</Filter>
+    </ClInclude>
+    <ClInclude Include="ArraySequenceTests.h">
+      <Filter>Файлы заголовков\tests</Filter>
+    </ClInclude>
+    <ClInclude Include="ComplexNumber.h">
+      <Filter>Файлы заголовков\типы данных</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Файлы заголовков\типы данных</Filter>
+    </ClInclude>
+    <ClInclude Include="Teacher.h">
+      <Filter>Файлы заголовков\типы данных</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryHeap.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="ArraySequence.h">
+      <Filter>Файлы заголовков\из 2-3 лабы</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicArray.h">
+      <Filter>Файлы заголовков\из 2-3 лабы</Filter>
+    </ClInclude>
+    <ClInclude Include="Errors.h">
+      <Filter>Файлы заголовков\из 2-3 лабы</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Файлы заголовков\из 2-3 лабы</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListSequence.h">
+      <Filter>Файлы заголовков\из 2-3 лабы</Filter>
+    </ClInclude>
+    <ClInclude Include="Sequence.h">
+      <Filter>Файлы заголовков\из 2-3 лабы</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryHeapTests.h">
+      <Filter>Файлы заголовков\tests</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="queuePriority.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeTests.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Pair.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
